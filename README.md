@@ -31,7 +31,6 @@ Les objectifs sont :
 ## 📦 Livrables
 Les livrables de ce projet incluent :
 1. **Lien vers le portfolio en ligne** contenant la carte mentale, la veille métier et les livrables organisationnels
-2. **Tutoriel Loom sur PowerBI** [Cliquez ici] (https://www.loom.com/share/dfb9c5c6460e44aa9762cecd5a68a488?sid=950a46cd-da31-4509-8c76-19818cd8ead5)
+2. **Tutoriel Loom sur PowerBI** [Cliquez ici](https://www.loom.com/share/dfb9c5c6460e44aa9762cecd5a68a488?sid=950a46cd-da31-4509-8c76-19818cd8ead5)
 
 ---
-# AEROWORLD
