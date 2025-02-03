@@ -1,7 +1,8 @@
 # 🌟 Créez votre portfolio de professionnel de la data
 
 ## 📝 Description brève du projet
-Aéroworld, une société opérant dans le secteur aéronautique, souhaite recruter un chef de projet data. 
+Aéroworld, une société opérant dans le secteur aéronautique, souhaite recruter un chef de projet data.
+
 Les objectifs sont :
 - Répondre à l'offre d'emploi en démontrant mes compétences en Business Intelligence
 - Elobrer mon portfolio sur GitHub 
