@@ -23,7 +23,7 @@ Les objectifs sont :
 ---
 
 ## 🔍 Compétences techniques développées
-- Elaboration d'un cahier des charges, d'une procédure de création d'un graphique
+- Elaboration d'un cahier des charges, d'une procédure de création de graphiques
 - Réalisation d'une veille métier 
 - Utilisation d'outils de gestion de projet
   
